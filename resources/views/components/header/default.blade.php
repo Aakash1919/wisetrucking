@@ -49,13 +49,13 @@
                                             </div>
                                             <div class="collapse navbar-collapse pad" id="bs-example-navbar-collapse-1">
                                                 <ul class="nav navbar-nav">
-                                                    <li class=""><a href="index.html">Home <span
+                                                    <li class="@if(isset($active) && $active=='home') active @endif"><a href="/">Home <span
                                                                 class="sr-only">(current)</span></a></li>
-                                                    <li class="active"><a href="about.html">About</a></li>
-                                                    <li><a href="service.html">Services</a></li>
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="contact.html">Contact us</a></li>
-                                                    <li><a href="contact.html">Login</a></li>
+                                                    <li class="@if(isset($active) && $active=='about') active @endif"><a href="{{route('about')}}">About</a></li>
+                                                    <li class="@if(isset($active) && $active=='service') active @endif"><a href="{{route('service')}}">Services</a></li>
+                                                    <li class="@if(isset($active) && $active=='blog') active @endif"><a href="javascript:void(0);">Blog</a></li>
+                                                    <li class="@if(isset($active) && $active=='contact') active @endif"><a href="{{route('contact')}}">Contact us</a></li>
+                                                    <li class="@if(isset($active) && $active=='login') active @endif"><a href="{{route('login')}}">Login</a></li>
                                                 </ul>
                                             </div>
                                         </nav>

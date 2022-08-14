@@ -37,6 +37,8 @@
     <div class="wrap">
         @include('components.header.default')
         @yield('content')
+        @include('components.footer.default')
+
     </div>
 
 </body>

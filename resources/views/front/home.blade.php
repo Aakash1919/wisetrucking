@@ -85,7 +85,7 @@
             <div class="p1">
                 <img src="{{asset('asset/images/icon2.png')}}" alt="" class="img-responsive">
                 <h2>Fast and reliable</h2>
-                <p>We use our compliance expertise and experience, aided by technoy, to make your compliance data –
+                <p class="color-white">We use our compliance expertise and experience, aided by technoy, to make your compliance data –
                     trip reports, hours of service logs, tax and registration filings, and driver qualification files
                     accurate</p>
             </div>
