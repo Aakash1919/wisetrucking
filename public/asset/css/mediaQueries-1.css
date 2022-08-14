@@ -1,0 +1,238 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*================================================
+990 px widdth
+================================================*/
+@media only screen and (max-width : 1024px){
+.slide-text{right:0; left:7%!important; width:90%; margin:auto;padding:0px;position:absolute;text-align:left; top:60%; transform:translateY(-50%)}
+.welcome-area h1 { font-size: 26px!important; line-height: 30px!important; padding: 0px 0px 7px 0px;}
+.o1-area { background-size: auto!important; height:400px!important; background-position: -119px 0px;}
+.of-part h3 { font-size: 22px; text-align: left; margin: 8px 0px 0px 0px;}
+.of-part h3 span { font-size: 17px; text-align: left; margin: 8px 0px 0px 0px;}
+.o1-area3 { background-size: auto!important; height:400px!important;}
+.testi-area { background:url(../images/view-testi.png) no-repeat!important; background-size: cover!important; }
+
+
+.overlay { width: 80%;}
+
+.logo img{ width:80%!important;}
+
+.call-area p { font: normal 13px/22px 'Roboto', sans-serif;}
+.social i { padding: 6px;}
+.ll{ background:url(../images/left-car.png); background-size:100%; min-height:540px;}
+.welcome-area { margin: 30px 0px 10px 0px;}
+
+.header__logo::before { position: absolute; z-index: 5; content: ""; right: 10%; height: 28px; bottom: -8px; background: #fff; width: 187%; }
+.menu-wraper .navbar-default .navbar-nav > li a { font-size: 13px; padding: 0px 19px 0px 18px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px;}
+.ppp-area2 { background: url(../images/pic2-1.png) no-repeat; min-height: 530px; }
+.tes-part { margin: 0px auto; padding:20px;}
+.mail p { font: bold 12px/21px 'Roboto', sans-serif !important;}
+.time p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+.call p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+
+}
+/*================================================
+768 px widdth
+================================================*/
+
+@media only screen and (max-width : 1023px){
+	.part-area{ margin:8px; padding:10px; border-bottom: 2px solid #ccc;
+  background: #FFF;  margin-bottom:12px; opacity:1.00;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		transition: box-shadow 0.5s; min-height:420px;}
+		
+		.navbar-default .navbar-nav > li a {
+    font-size: 11px!important;
+    padding: 0px 10px 0px 10px!important;
+}
+.header__logo::before {
+    position: absolute;
+    z-index: 5;
+    content: "";
+    right: 13%;
+    height: 28px;
+    bottom: -8px;
+    background: #fff;
+    width: 187%;
+}
+
+.social i {
+    padding: 2px;
+}
+.mail p {
+    font: bold 9px/21px 'Roboto', sans-serif !important;
+}
+.call p {
+    font: bold 9px/21px 'Roboto', sans-serif !important;
+}
+.time p {
+    font: bold 9px/21px 'Roboto', sans-serif !important;
+}
+}
+
+
+@media only screen and (max-width : 768px){
+.top-part{ position: relative; }
+.logo img{ width:100%!important;}
+
+.overlay { width: 70%;}
+
+.cla{ width:100%!important;}
+
+.social { padding: 6px 0px 0px 0px;  margin: 0; }
+.welcome-area { margin: 30px 0px 10px 0px;}
+.tes-part { margin: 0px auto; padding: 0px;}
+label { font-size: 12px; }
+.tes-part h2 { font: bold 24px/60px 'Oswald', sans-serif !important; padding: 5px 0px 0px 0px !important; }
+.testimonial4_slide p { font-size: 13px;}
+
+.header__logo::before { position: absolute; z-index: 5; content: ""; right: 13%; height: 28px; bottom: -8px; background: #fff; width: 187%; }
+.menu-wraper .navbar-default .navbar-nav > li a { font-size: 13px; padding: 0px 8px 0px 8px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px;}
+.ppp-area2 { background: url(../images/pic2-1.png) no-repeat; min-height: 530px; }
+.tes-part { margin: 0px auto; padding:20px;}
+.mail p { font: bold 12px/21px 'Roboto', sans-serif !important;}
+.time p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+.call p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+.sc-part2 h1 { font-size: 22px!important;}
+.sc-part2 li {font: normal 11px/22px 'Roboto', sans-serif !important; margin: 0 0 8px 0px; }
+.sc-part2 p { font-size: 14px; padding: 0px 0px 12px 20px; }
+.sc-part3 p { font-size: 13px; margin: 0; padding: 0px 0px 18px 20px; font-style: italic; line-height: 18px;}
+.sc-part3 li { font: normal 12px/20px 'Roboto', sans-serif !important;  margin: 0 0 5px 0px; padding:0px 0px 0px 20px;}
+.sc-part3 h1 { font-size: 23px; line-height: 24px; padding: 15px 0px 12px 0px !important; margin-left: 20px; }
+.social i { padding: 4px; }
+
+}
+
+
+
+/*================================================
+640 px width
+================================================*/
+@media only screen and (max-width : 640px){
+
+.top-part{ position: relative; }
+.overlay { width: 90%;}
+.navbar-toggle { margin-top: -177px!important; }
+.navbar-default .navbar-nav > li a { padding: 0px 4px 0px 32px!important; }
+/*.p1 img{ width:100%;}*/
+
+.caption_heading { font-size: 13px!important;}
+.caption_sub_heading p { font-size: 16px !important;}
+
+.p1 h2 {  font-size: 14px!important;}
+.carousel-control.right { right: 14px!important; }
+.testi-area { background:#e9eadc!important /*url(../images/view-testi.png) no-repeat  -430px 0px !important*/;}
+.bb-part { margin: 0px 0px 0px 0px!important;}
+.testimonial4_slide p { font-size: 14px!important;}
+.navbar { min-height: 0px!important; }
+.welcome-area {  margin: 10px 0px 0px 0px; padding:10px!important;}
+.map { height:200px!important;}
+
+.left-n-part {
+    margin: -120px 0px 0px 0px;
+}
+
+.blog-overlay {
+    background: rgba(25,28,28,.5);
+    padding: 36px 0;
+}
+
+.header__logo { position: relative; margin: 60px 0px 0px 0px; }
+.header__logo::before { display:none;}
+.header__logo::after { display:none;}
+.menu-wraper .navbar-default .navbar-nav > li a { font-size: 13px; padding: 0px 8px 0px 8px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px;}
+.ppp-area2 { background: url(../images/pic2-1.png) no-repeat; min-height: 530px; }
+.tes-part { margin: 0px auto; padding:20px;}
+.mail p { font: bold 12px/21px 'Roboto', sans-serif !important;}
+.time p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+.call p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+.sc-part2 h1 { font-size: 22px!important;}
+.sc-part2 li {font: normal 11px/22px 'Roboto', sans-serif !important; margin: 0 0 8px 0px; }
+.sc-part2 p { font-size: 14px; padding: 0px 0px 12px 20px; }
+.sc-part3 p { font-size: 13px; margin: 0; padding: 0px 0px 18px 20px; font-style: italic; line-height: 18px;}
+.sc-part3 li { font: normal 12px/20px 'Roboto', sans-serif !important;  margin: 0 0 5px 0px; padding:0px 0px 0px 20px;}
+.sc-part3 h1 { font-size: 23px; line-height: 24px; padding: 15px 0px 12px 0px !important; margin-left: 20px; }
+.social i { padding: 4px; }
+
+.slide-text {right: 0; left: 0% !important; width: 94%; margin: auto; padding: 0px; position: absolute; top: 53%; transform: translateY(-50%);}
+.red_btn {font: bold 8px/8px 'Roboto', sans-serif !important; padding: 4px; font-size: 14px;  margin: 0; }
+.f1-part2 { padding: 0px;}
+}
+
+
+
+
+/*================================================
+480 px width
+================================================*/
+@media only screen and (max-width : 480px){
+
+.top-part{ position: relative; }
+.overlay { width: 90%;}
+.navbar-toggle { margin-top: -131px!important; }
+.navbar-default .navbar-nav > li a { padding: 0px 4px 0px 32px!important; }
+
+.caption_heading { font-size: 13px!important;}
+.caption_sub_heading p { font-size: 16px !important;}
+
+
+.p1 h2 {  font-size: 14px!important;}
+.carousel-control.right { right: 14px!important; }
+.testimonial4_slide p { font-size: 14px!important;}
+.navbar { min-height: 0px!important; }
+.welcome-area {  margin: 10px 0px 0px 0px; padding:10px!important;}
+.area3 h2{ line-height:32px!important;}
+.dd3 { display:none!important; top: -12px !important;
+left: -8px!important;}
+.dd2 {display:none!important;}
+.dd3 h1 {font-size: 8px; line-height: 50px; padding: 0px 19px 0px 65px!important;}
+
+.left-n-part {
+    margin: -120px 0px 0px 0px;
+}
+
+.map { height:200px!important;}
+
+.blog-overlay {
+    background: rgba(25,28,28,.5);
+    padding: 36px 0;
+}
+
+.header__logo { position: relative; margin: 60px 0px 0px 0px; }
+.header__logo::before { display:none;}
+.header__logo::after { display:none;}
+.menu-wraper .navbar-default .navbar-nav > li a { font-size: 13px; padding: 0px 8px 0px 8px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px; }
+.ppp-area { background: url(../images/pic1-1.png) no-repeat; min-height: 523px;}
+.ppp-area2 { background: url(../images/pic2-1.png) no-repeat; min-height: 530px; }
+.tes-part { margin: 0px auto; padding:20px;}
+.mail p { font: bold 12px/21px 'Roboto', sans-serif !important;}
+.time p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+.call p{ font: bold 12px/21px 'Roboto', sans-serif !important;}
+.sc-part2 h1 { font-size: 22px!important;}
+.sc-part2 li {font: normal 11px/22px 'Roboto', sans-serif !important; margin: 0 0 8px 0px; }
+.sc-part2 p { font-size: 14px; padding: 0px 0px 12px 20px; }
+.sc-part3 p { font-size: 13px; margin: 0; padding: 0px 0px 18px 20px; font-style: italic; line-height: 18px;}
+.sc-part3 li { font: normal 12px/20px 'Roboto', sans-serif !important;  margin: 0 0 5px 0px; padding:0px 0px 0px 20px;}
+.sc-part3 h1 { font-size: 23px; line-height: 24px; padding: 15px 0px 12px 0px !important; margin-left: 20px; }
+.social i { padding: 4px; }
+
+.slide-text {right: 0; left: 0% !important; width: 94%; margin: auto; padding: 0px; position: absolute; top: 53%; transform: translateY(-50%);}
+.red_btn {font: bold 8px/8px 'Roboto', sans-serif !important; padding: 4px; font-size: 14px;  margin: 0; }
+.f1-part2 { padding: 0px;}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    font-size: 10px!important;
+}
+}
