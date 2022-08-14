@@ -11,7 +11,7 @@ class PublicController extends Controller
     }
 
     public function contact() {
-
+        return view('front.contact');
     }
 
     public function services() {
