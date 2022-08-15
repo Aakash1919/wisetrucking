@@ -8,13 +8,13 @@
                     <div class="area2">
                         <h2>about us</h2>
                         <!--about area-->
-                        <p>G&amp;G Trucking Solutions offers value-added transportation services that are tailored to
-                            the specific needs of the customer. Our business was created to help business like yours get
-                            dependable, excellent service from fresh company registration till the end of all
-                            authorizations to put you on Highway. The principles of our business have remained steadfast
-                            through the years-- to make fast and safe transport. We help you in following all safety and
-                            government guidelines.
-                        </p>
+                        <p>We believe our experience and knowledge will not only improve your Company’s SAFETY RATING,
+                            but we will save your company a substantial amount of money on non-compliance fines, 
+                            equipment costs and the cost of managing a fleet by increasing miles per gallon and decreasing cost per mile.
+                        
+                            Today, Wise Trucking Solutions is Ontario’s leading transportation management and consulting firm.
+                            We have successfully assisted hundreds of trucking and logistic companies with their acquisition needs,
+                             as well as aided struggling carriers with improved operations and increased cash flow, among other services.</p>
                         <p><a href="https://www.facebook.com/gngtruckingsolutions"><i class="fa fa-facebook"
                                     aria-hidden="true"></i></a>
                             <a href="https://twitter.com/gngtruckingsolu"><i class="fa fa-twitter"
@@ -31,25 +31,23 @@
                     <div class="area2">
                         <h2>contact us</h2>
                         <div class="rc-part">
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>7050 Telford Way Unit 13 Mississauga
-                                L5S 1V7 CANADA</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>234 Wilkinson RdBrampton, ON L6T 4N7, Canada</p>
                         </div>
                         <div class="clearfix"></div>
                         <div class="rc-part">
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Unit 10 7050 Telford Way, Mississauga
-                                ON L5S 1V7 CANADA</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>M8M3+9J Brampton, Ontario, Canada</p>
                         </div>
 
                         <div class="clearfix"></div>
 
                         <div class="rc-part">
-                            <p><i class="fa fa-phone" aria-hidden="true"></i>647 643 2525 / 905 461 2525</p>
+                            <p><i class="fa fa-phone" aria-hidden="true"></i>647 643 2525/ 905 461 2525</p>
                         </div>
 
                         <div class="clearfix"></div>
 
                         <div class="rc-part">
-                            <p><i class="fa fa-envelope-o" aria-hidden="true"></i>truckingsolutions@gmail.com</p>
+                            <p><i class="fa fa-envelope-o" aria-hidden="true"></i>wisetruckingsolutions@gmail.com</p>
 
                         </div>
                         <div class="clearfix"></div>
@@ -65,17 +63,21 @@
                         <h2>Our Services</h2>
                         <!--testi area-->
                         <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a
-                                href="service.html">Company Registeration</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Log
-                                Book Auditing</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Pars
-                                and PAPS</a></p>
+                                href="service.html">Permits and Authorities Service</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Safety and Compliance Management
+                        </a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">ELD / Log Book Auditing and Monitoring
+                        </a></p>
                         <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">
-                                MTO/DOT Safety Audit Preparation</a></p>
+                            International Registration Plan (IRP)</a></p>
                         <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">
-                                Safety Fitness Certificate /CVOR Registration</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> IFTA
-                                Registration</a></p>
+                            IFTA Tax Filing</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> DOT approved Drug and Alcohol Testing</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> Safe and Smart Driver Training</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> MTO-DOT Audits</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> CSA Administration Service</a></p>
+
+
                     </div>
                 </div>
                 <!--newsletter-->

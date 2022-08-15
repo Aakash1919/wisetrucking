@@ -11,6 +11,7 @@
                             <div class="caption_heading" data-animation="animated fadeInLeft"> UNBEATABLE </div>
                             <div class="caption_sub_heading" data-animation="animated fadeInRight">
                                 <p>TRUCKING<br>Solutions</p>
+                                <h2> Wise Trucking Solutions-Safety & Compliance Management Program has been designed to provide the guidance about safety & compliance related issues.</h2>
                                 <p><a href="contact.html" class="red_btn">Make an Appointment</a>
                                 </p>
                             </div>
@@ -23,6 +24,7 @@
                             <div class="caption_heading" data-animation="animated fadeInLeft"> UNBEATABLE </div>
                             <div class="caption_sub_heading" data-animation="animated fadeInRight">
                                 <p>TRUCKING<br>Solutions</p>
+                                <h2> Wise Trucking Solutions-Trucking Consultant provides convenient, value-added solutions to our Carrier clients, giving them peace of mind that comes from cost savings and the freedom to focus on their core business. </h2>
                                 <p><a href="contact.html" class="red_btn">Make an Appointment</a>
                                 </p>
                             </div>
@@ -35,6 +37,7 @@
                             <div class="caption_heading" data-animation="animated fadeInLeft"> UNBEATABLE </div>
                             <div class="caption_sub_heading" data-animation="animated fadeInRight">
                                 <p>TRUCKING<br>Solutions</p>
+                                <h2> Explore our Services, Training and Support available to you and discover how ABS SafeCom can help you grow and succeed. </h2>
                                 <p><a href="contact.html" class="red_btn">Make an Appointment</a>
                                 </p>
                             </div>
@@ -47,6 +50,7 @@
                             <div class="caption_heading" data-animation="animated fadeInLeft"> UNBEATABLE </div>
                             <div class="caption_sub_heading" data-animation="animated fadeInRight">
                                 <p>TRUCKING<br>Solutions</p>
+                                <h2> Our mission is to provide our clients with exceptional Safety & Compliance Management Services, Training and Customer Service in the industry.</h2>
                                 <p><a href="contact.html" class="red_btn">Make an Appointment</a>
                                 </p>
                             </div>
@@ -59,6 +63,7 @@
                             <div class="caption_heading" data-animation="animated fadeInLeft"> UNBEATABLE </div>
                             <div class="caption_sub_heading" data-animation="animated fadeInRight">
                                 <p>TRUCKING<br>Solutions</p>
+                                <h2> To excel in Safety & Compliance to a level that is compatible with excellence in other business parameters such as Quality, Productivity and Profitability.</h2>
                                 <p><a href="contact.html" class="red_btn">Make an Appointment</a>
                                 </p>
                             </div>
@@ -71,11 +76,11 @@
 </section>
 <section>
     <div class="location-part wow fadeInDown">
-        <div class="col-sm-4 col-xs-12 lj-area">
+        <div class="col-sm-4 col-xs-12 lj-area2">
             <div class="p1">
                 <img src="{{asset('asset/images/icon1.png')}}" alt="" class="img-responsive">
                 <h2>24 hours support</h2>
-                <p>We have helped motor carriers, reduce the costs of complying with state and federal regulations. We
+                <p class="color-white">We have helped motor carriers, reduce the costs of complying with state and federal regulations. We
                     save our clients from wasting their valuable time, labor, and attention from activities and help
                     them remain stress-free. </p>
             </div>
@@ -91,11 +96,11 @@
             </div>
             <div class="clearfix"></div>
         </div>
-        <div class="col-sm-4 col-xs-12 lj-area">
+        <div class="col-sm-4 col-xs-12 lj-area2">
             <div class="p1">
                 <img src="{{asset('asset/images/icon3.png')}}" alt="" class="img-responsive">
                 <h2>Trucking service</h2>
-                <p>Our trucking service is based on the principle of providing our clients with the flexibility and
+                <p class="color-white">Our trucking service is based on the principle of providing our clients with the flexibility and
                     reliability, to move legal load across town, or across the country, whenever they want. Count on us
                     for unparallel trucking solutions!</p>
             </div>
@@ -109,30 +114,26 @@
         <div class="row" id="equalheight">
             <div class="col-sm-7 col-xs-12 sc-part2">
                 <h1>WELCOME Trucking Solutions</h1>
-                <p>G&G Trucking Solutions has become an established and dependable trucking solutions provider. G&G
-                    Trucking Solutions provides a variety of high quality safety solutions designed to educate, measure
-                    and assist the transportation industry.
-                    We understand the requirements necessary to achieve compliance with legislation, assist in truck
-                    driver training and create different procedures to ensure success. </p>
+                <p>Let our experts take the burden of driver safety and compliance so you can focus on running your core business.
+                    Many companies with transportation related risks do not have the staff or resources to cost effectively maintain an effective safety and compliance program.
+                    Wise Trucking Solutions can use our scale and expertise to provide you with the benefits and resources of a large safety and compliance department. Moreover, 
+                    we can do so in a way that is cost effective and scalable to your business. Safety and compliance need not compromise the effectiveness and profitability of your fleet.
+                    </p>
                 <div class="col-sm-6 col-xs-12">
                     <ul>
-                        <li>Log Book Auditing</li>
-                        <li>Fuel Tax Reporting</li>
-                        <li>MTO/DOT Safety Audit Preparation</li>
-                        <li>Carrier Code</li>
-                        <li>Company Registration</li>
-                        <li>Safety Fitness Certificate</li>
-                        <li>CVOR Registration</li>
+                        <li>Upgrade Your Safety Rating</li>
+                        <li>Solutions for New Fleets</li>
+                        <li>MOE Number</li>
+                        <li>Oversize Permits and Overweight Permits</li>
+                        <li>CANADA and US Bond Registration</li>
+                        <li>Driver Safety Enforcement: What Motor Carriers Need to Know</li>
+                        <li>US Hazardous Materials Safety Permit Program (HMSP)</li>
                     </ul>
                 </div>
                 <div class="col-sm-6 col-xs-12">
                     <ul>
-                        <li>Bonded Carrier
-                        <li>IFTA Registration
-                        <li>Prorate Plate/IRP Plates
-                        <li>Fleet Management Program
-                        <li>Financing to Buy a Truck
-                        <li>DG Training</li>
+                        <li>Insurance and Risk Management</li>
+                        
                     </ul>
                 </div>
             </div>
@@ -152,18 +153,21 @@
                 <h1>Permits</h1>
                 <p>We help you to take permits which are not included in the number plates. These are special permits
                     which are required to enter in the province of US to do a legal business. </p>
+                <p> Wise Trucking Solutions-Transportation Permits and Authorities Service can help you with: </p>
                 <ul>
-                    <li>New Mexico Permits</li>
+                    <li>First Time Registrations </li>
+                    <li>Annual Renewals</li>
+                    <li>Fleet Additions and Deletion </li>        
+                    <li>New Mexico Weight Permits</li>
                     <li>New York Hut Permits</li>
                     <li>Oregon Permits</li>
                 </ul>
                 <h1>History</h1>
-                <p>Since it's founding in Mississauga ON in 2007, G&G Trucking Solutions Inc, is provinding assistance
+                <p>Since it's founding in CANADA, CA in 2020, Wise Trucking Solutions is provinding assistance
                     to new and old trcuking companies to manage their business in better way. Our clients are very happy
-                    with our services and continously
-                    doing business with us.
+                    with our services and continously doing business with us. Wise Trucking Solutions is committed to respecting the privacy of individuals and recognizes a need for the appropriate management and protection of any personal information that you agree to provide to us. 
                     <br><br>We are pleased to tell you that our business is growing as we have opened a new branch in
-                    Calgary AB, 2013.
+                    kentucky, KY 2022.
                 </p>
             </div>
             <div>
@@ -191,14 +195,10 @@
                                 </div>
                                 <div class="col-md-10 col-sm-10 col-xs-12">
                                     <div class="caption">
-                                        <p> I have been using G&G Trucking Solutions since 2012. They do all those
-                                            things which I don’t want to do like auditing, IFTA registration, licensing,
-                                            fuel tax reporting, and more. They let me do those things I do
-                                            want to do like, finding freight and keeping my truck moving. They stay
-                                            informed of the latest compliance issues to keep my business legal. Great
-                                            going! </p>
+                                        <p>   “Good workplace, good colleagues, good place, good knowledge, good timings. Don’t have anything negative to say.
+                                             The facility is a little far from the city and there is not pick and drop facility available. otherwise it is a good place.”</p>
                                         <blockquote class="adjust2">
-                                            <p>Frank Martin</p> <small><cite
+                                            <p>Frank Martin,</p> <small><cite
                                                     title="Source Title">Transporter</cite></small>
                                         </blockquote>
                                     </div>
@@ -212,12 +212,10 @@
                                 </div>
                                 <div class="col-md-10 col-sm-10 col-xs-12">
                                     <div class="caption">
-                                        <p>We recently went through a DOT Compliance Review and agent said that our
-                                            files were as good as it can be. We have put our faith on G&G for a few
-                                            years now, and they have been instrumental in keeping our files up
-                                            to date and compliant. I would highly recommend them.</p>
+                                        <p>    “Culture is good, 
+                                            there is respect for people, compensation is decent as per industry standards.”             								 </p>
                                         <blockquote class="adjust2">
-                                            <p>Martin Frank, </p> <small><cite
+                                            <p>Alex,</p> <small><cite
                                                     title="Source Title">Transporter</cite></small>
                                         </blockquote>
                                     </div>
@@ -233,12 +231,9 @@
                                 </div>
                                 <div class="col-md-10 col-sm-10 col-xs-12">
                                     <div class="caption">
-                                        <p>G & G Trucking solutions can work with you to take the complexity out of
-                                            ensuring your permits are proactively up-to-date for all international,
-                                            federal, provincial and municipal governments. Worth the investment!
-                                            I would highly recommend! </p>
+                                        <p>Thanks for your recommendations for our business and the help in getting going. So far working great.</p>
                                         <blockquote class="adjust2">
-                                            <p>Martin Frank,</p> <small><cite
+                                            <p>Johnny Lewellyn Jr,</p> <small><cite
                                                     title="Source Title">Transporter</cite></small>
                                         </blockquote>
                                     </div>
@@ -252,12 +247,11 @@
                                 </div>
                                 <div class="col-md-10 col-sm-10 col-xs-12">
                                     <div class="caption">
-                                        <p>G & G Trucking solutions acts as a leader in the field of supporting the
-                                            trucking industry because they partner with you to bring resources and
-                                            training to you 24/7 through their online services. Great going G &
-                                            G! My Best wishes!</p>
+                                        <p>You guys have been Great to work with! Answered all my questions and pricing is excellent. 
+                                            The complete opposite of Verizon Connect : high priced, sneaky about contracts (auto renew) and NO customer support. 
+                                            I’ll be much happier when I get to move my whole fleet over.</p>
                                         <blockquote class="adjust2">
-                                            <p>Frank Martin,</p> <small><cite title="Source Title">
+                                            <p>Jeff Engelman,</p> <small><cite title="Source Title">
                                                     Transporter</cite></small>
                                         </blockquote>
                                     </div>

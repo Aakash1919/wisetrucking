@@ -17,7 +17,7 @@
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 mail">
                                 <p><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                                    <span>E-mail Us</span><br>truckingsolutions@gmail.com
+                                    <span>E-mail Us</span><br>wisetruckingsolutions@gmail.com
                                 </p>
                         </div>
                             <div class="col-md-2 col-sm-2 col-xs-12 social">
