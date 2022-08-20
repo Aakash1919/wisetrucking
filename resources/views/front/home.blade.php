@@ -46,14 +46,14 @@
             color: #017e85;
         }
 
-        #equalheight {
+        #equalheight,#equalheight2 {
             display: flex;
-            align-items: center;
+            margin:40px 0px;
         }
 
-        .sc-part2-container {
+        /* .sc-part2-container {
             padding: 75px;
-        }
+        } */
 
         .sc-part2-container h1,
         .sc-part2-container p {
@@ -66,6 +66,61 @@
             padding: 0px 0px 0px 20px;
             color: #017e85 !important;
         }
+        
+        /* @media only screen and (min-width:768px) {
+            .d-md-block{
+                display:block;
+            }
+        } */
+        
+        
+        @media only screen and (max-width:767px) {
+           
+           .section-1-container{
+               display:block;
+           }
+           .section-1-container .lj-area{
+               margin-top:15px;       
+            }
+            .section-1-container .lj-area2{
+                margin-top:15px;   
+            }
+            #equalheight,#equalheight2 {
+                display:block;
+            }
+            .sc-part2-container {
+            padding: 20px;
+        }
+        .section-1-container{
+            margin:20px 0px;
+        }
+       .order-2{
+            order:2!important;
+        }
+        .order-1{
+            order:1!important;
+        }
+        .ppp-area {
+    background: url(../images/pic1.png) no-repeat;
+    min-height: 100%;
+}
+.ppp-area2 {
+    background: url(../images/pic2.png) no-repeat;
+    min-height: 100%;
+}
+.bs-slider>.carousel-inner>.item>img{
+    height: 300px;
+}
+.caption_sub_heading h2{
+    font-size:22px!important;
+}
+.slide-text{
+    width:100%;
+    padding:20px 0px;
+    background: #0000005e
+}
+       
+    }
     </style>
     <section>
         <div class="slide-area wow fadeInDown">
@@ -145,9 +200,9 @@
     <section>
         <div class="location-part section-1-container wow fadeInDown">
             <!--ll part-->
-            <div class="col-sm-3 col-xs-12 lj-area">
+            <div class="col-md-4 col-lg-3 col-12 lj-area">
                 <div class="p1">
-                    <img src="images/icon1.png" alt="" class="img-responsive" />
+                    <img src="/asset/images/24 HOURS SUPPORT.png" alt="" class="img-responsive" />
                     <h2>24 hours support</h2>
                     <p>
                         We have helped motor carriers, reduce the costs of complying
@@ -161,9 +216,9 @@
             <!--ll part-->
 
             <!--ll part-->
-            <div class="col-sm-3 col-xs-12 lj-area2">
+            <div class="col-md-4 col-lg-3 col-12 lj-area2">
                 <div class="p1">
-                    <img src="images/icon2.png" alt="" class="img-responsive" />
+                <img src="/asset/images/FAST AND RELIABLE.png" alt="" class="img-responsive" />
                     <h2>Fast and reliable</h2>
                     <p>
                         We use our compliance expertise and experience, aided by
@@ -177,10 +232,10 @@
             <!--ll part-->
 
             <!--ll part-->
-            <div class="col-sm-3 col-xs-12 lj-area">
+            <div class="col-md-4 col-lg-3 col-12 lj-area">
                 <div class="p1">
-                    <img src="images/icon3.png" alt="" class="img-responsive" />
-                    <h2>Trucking service</h2>
+                <img src="/asset/images/TRUCKING SERVICE.png" alt="" class="img-responsive" />
+                        <h2>Trucking service</h2>
                     <p>
                         Our trucking service is based on the principle of providing our
                         clients with the flexibility and reliability, to move legal load
@@ -196,8 +251,8 @@
     </section>
 
     <section>
-        <div class="sc-part2 wow fadeInDown">
-            <div class="row" id="equalheight">
+        <div class="sc-part2 wow fadeInDown container">
+            <div class="row " id="equalheight">
                 <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container">
                     <h1>WELCOME Trucking Solutions</h1>
                     <p>
@@ -242,14 +297,14 @@
     </section>
 
     <section>
-        <div class="sc-part3 wow fadeInDown">
-            <div class="row" id="equalheight2">
-                <div class="col-sm-7 col-xs-12 ppp-area2 sc-part2-container">
+        <div class="sc-part3 wow fadeInDown container">
+            <div class="row " id="equalheight2">
+                <div class="col-sm-5 col-xs-12 ppp-area2 sc-part2-container order-2">
                     <img src="https://cdn.pixabay.com/photo/2019/02/26/07/33/trucks-in-snow-4021311__340.jpg"
                         style="width: 100%; height: 100%" />
                 </div>
 
-                <div class="col-sm-5 col-xs-12 sc-part3 sc-part2-container">
+                <div class="col-sm-7 col-xs-12 sc-part3 sc-part2-container order-1">
                     <h1>Permits</h1>
                     <p>
                         We help you to take permits which are not included in the number

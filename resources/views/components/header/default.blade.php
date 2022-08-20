@@ -4,7 +4,7 @@
             <div class="hh-part">
                 <div class="top-part">
                     <div class="container">
-                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right">
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right d-none d-md-block">
                             <div class="col-md-3 col-sm-3 col-xs-12 call">
                                 <p><i class="fa fa-headphones" aria-hidden="true"></i><span>Call Us Anytime</span><br>647
                                     - 643 - 2525
