@@ -29,7 +29,7 @@
                                         <tr>
                                             <td width="36%" valign="top" align="left"><strong>Address:</strong></td>
                                             <td width="64%" valign="top" align="left">
-                                                234 Wilkinson RdBrampton, ON L6T 4N7, Canada
+                                                234 Wilkinson Rd Brampton, ON L6T 4N7, Canada
                                             </td>
                                         </tr>
                                         <tr>
@@ -38,7 +38,7 @@
                                         </tr>
                                         <tr>
                                             <td valign="top" align="left"><strong>Fax:</strong></td>
-                                            <td valign="top" align="left">905-696-6825</td>
+                                            <td valign="top" align="left">(905)-461-2525</td>
                                         </tr>
                                         <tr>
                                             <td valign="top" align="left"><strong>Email:</strong></td>

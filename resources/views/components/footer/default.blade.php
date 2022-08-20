@@ -34,11 +34,11 @@
                             <p><i class="fa fa-map-marker" aria-hidden="true"></i>234 Wilkinson RdBrampton, ON L6T 4N7, Canada</p>
                         </div>
                         <div class="clearfix"></div>
-                        <div class="rc-part">
+                        {{-- <div class="rc-part">
                             <p><i class="fa fa-map-marker" aria-hidden="true"></i>M8M3+9J Brampton, Ontario, Canada</p>
-                        </div>
+                        </div> --}}
 
-                        <div class="clearfix"></div>
+                        {{-- <div class="clearfix"></div> --}}
 
                         <div class="rc-part">
                             <p><i class="fa fa-phone" aria-hidden="true"></i>647 643 2525/ 905 461 2525</p>
