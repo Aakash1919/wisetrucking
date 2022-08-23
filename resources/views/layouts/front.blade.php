@@ -23,7 +23,6 @@
         wow.init();
     </script>
     <!--slider-->
-    <link rel="stylesheet" type="text/css" href="index.htm">
     <link href="{{ asset('asset/css/animated.css') }}" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('asset/css/font-awesome.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('asset/css/main.css') }}">

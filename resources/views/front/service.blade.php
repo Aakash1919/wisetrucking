@@ -11,6 +11,7 @@
             </div>
         </div>
     </section>
+
     <!-- =-=-=-=-=-=-=-=-=-=- BANNER AREA CLOSE -=-=-=-=-=-=-=-=-=-= -->
     <!-- =-=-=-=-=-=-=-=-=-=- MID AREA START -=-=-=-=-=-=-=-=-=-= -->
 
@@ -94,10 +95,7 @@
           <div class="service-card">
             <img src="{{ asset('asset/images/s6.png') }}" alt="truck" />
           </div>
-        </div>
-      </div>
-     
-    </div>
-  </section>
 
+        </div>
+    </section>
 @endsection

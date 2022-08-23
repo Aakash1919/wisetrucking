@@ -29,6 +29,7 @@
                 <div class="top-part2">
                     <div class="container">
                         <div class="col-md-4 col-sm-4 col-xs-8 header__logo">
+
                             <a href="/" class="logo"><img src="{{asset('asset/images/wise.jpeg')}}" alt=""></a>
                         </div>
                         <div class="col-md-8 col-sm-8 col-xs-4 pull-right">

@@ -289,8 +289,8 @@
                 </div>
 
                 <div class="col-sm-5 col-xs-12 ppp-area sc-part2-container  wow fadeInRight">
-                    <img src="https://cdn.pixabay.com/photo/2019/02/26/07/33/trucks-in-snow-4021311__340.jpg"
-                        style="width: 100%; height: 100%" />
+                    <img src="{{asset('asset/images/home_w.png')}}" style="width:100%;height:100%" />
+
                 </div>
             </div>
         </div>
