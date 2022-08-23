@@ -289,7 +289,7 @@
                 </div>
 
                 <div class="col-sm-5 col-xs-12 ppp-area sc-part2-container">
-                    <img src="https://cdn.pixabay.com/photo/2019/02/26/07/33/trucks-in-snow-4021311__340.jpg"
+                    <img src="{{asset('asset/images/portrait.jpeg')}}"
                         style="width: 100%; height: 100%" />
                 </div>
             </div>

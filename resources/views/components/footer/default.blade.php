@@ -93,9 +93,9 @@
         <div class="container">
             <div class="">
                 <div class="area3">
-                    <p class="text-center">© G&amp;G Trucking Solution. All Rights Reserved
-                        &nbsp;&nbsp;&nbsp;&nbsp;Powered By: <a href="http://www.zoomwebmedia.com/"
-                            target="_blank">zomwebmedia.com</a></p>
+                    <p class="text-center">© Wise Trucking Solution. All Rights Reserved
+                        &nbsp;&nbsp;&nbsp;&nbsp;Developed By: <a href="http://www.zoomwebmedia.com/"
+                            target="_blank">suavecreators.com</a></p>
                 </div>
             </div>
         </div>
