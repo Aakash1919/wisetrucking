@@ -3,9 +3,9 @@
     <section class="blog">
         <div class="blog-overlay">
             <div class="container">
-                <div class="col-sm-7">
+                <div class="col-sm-12  wow fadeInDown">
                     <div class="blog-head">
-                        <h2>Contact</h2>
+                        <h2 class="text-center">Contact</h2>
                     </div>
                 </div>
             </div>
@@ -16,11 +16,10 @@
             <div class="container">
                 <div class="welcome-area3">
                     <div class="col-sm-12 col-xs-12">
-                        <div class="col-sm-6 col-xs-12 no-padding">
+                        <div class="col-sm-6 col-12 col-xs-12 no-padding wow fadeInLeft">
                             <div class="f1-part2">
                                 <h4>Ontario office</h4>
-                                <table class="table cv contact-address table-bordered " cellspacing="3" cellpadding="0"
-                                    border="0">
+                                <table class="table cv contact-address table-bordered " cellspacing="3" cellpadding="0" border="0">
                                     <tbody>
                                         <tr>
                                             <td align="left" valign="top"><strong>Company Name:</strong></td>
@@ -50,7 +49,7 @@
                                 </table>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-xs-12">
+                        <div class="col-sm-6 col-xs-12 wow fadeInRight">
                             <div class="f1-part2">
                                 <iframe class="map"
                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.3055863807026!2d-79.69597!3d43.683409999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3e5f3edb0e4d%3A0x591d1f54eabf9bea!2s234%20Wilkinson%20Rd%2C%20Brampton%2C%20ON%20L6T%204N7!5e0!3m2!1sen!2sca!4v1660552310263!5m2!1sen!2sca"></iframe>
@@ -100,7 +99,7 @@
                             </div>
                         </div>
                     </div> --}}
-                    <div class="col-sm-12 col-xs-12">
+                    <div class="col-sm-12 col-xs-12 wow fadeInDown">
                         <div class="f1-part2">
                             <h4>Enquiry Form</h4>
                             <form action="submit_contactus.php" method="post" name="ContactForm">

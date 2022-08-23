@@ -3733,3 +3733,25 @@ padding-right:10px;
 .lj-area , .lj-area2{
     padding:15px;
 }
+.sc-part2-container h2, .sc-part2-container p {
+    color: #017e85 !important;
+}
+.sc-part2-container h2{
+background: url(../images/tag-underline-bg.png) left bottom no-repeat;
+    font-family: 'Questrial', sans-serif!important;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 32px;
+    text-align: left;
+    text-transform: uppercase!important;
+    padding: 15px 0px 20px 0px!important;
+}
+/* shimmer  */
+    .fadeInRight img ,.fadeInLeft img ,.fadeInDown img{
+        -webkit-mask:linear-gradient(-60deg,#000 30%,#0005,#000 70%) right/300% 100%;
+        animation: shimmer 2.5s;
+    }
+  
+  @keyframes shimmer {
+    100% {-webkit-mask-position:left}
+  }

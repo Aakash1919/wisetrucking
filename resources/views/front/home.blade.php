@@ -123,16 +123,16 @@
     }
     </style>
     <section>
-        <div class="slide-area wow fadeInDown">
+        <div class="slide-area">
             <div id="bootstrap-touch-slider" class="carousel bs-slider slide  control-round indicators-line"
                 data-ride="carousel" data-pause="hover" data-interval="5000">
                 <div class="carousel-inner" role="listbox">
                     {{-- <div class="item active"> <img src="{{asset('asset/images/banner1.png')}}" alt="" title="">
                     <div class="slide-text slide_style_left">
                         <div class="container">
-                            <div class="caption_heading" data-animation="animated fadeInLeft"> UNBEATABLE </div>
-                            <div class="caption_sub_heading" data-animation="animated fadeInRight">
-                                <p>TRUCKING<br>Solutions</p>
+                            <div class="caption_heading fadeInLeft"  data-wow-duration="1.0s" > UNBEATABLE </div>
+                            <div class="caption_sub_heading fadeInLeft"  data-wow-duration="1.0s">
+                                <p>TRUCKING <br> Solutions</p>
                                 <h2> Wise Trucking Solutions-Safety & Compliance Management Program has been designed to provide the guidance about safety & compliance related issues.</h2>
                                 <p><a href="contact.html" class="red_btn">Make an Appointment</a>
                                 </p>
@@ -198,9 +198,9 @@
         </div>
     </section>
     <section>
-        <div class="location-part section-1-container wow fadeInDown">
+        <div class="location-part section-1-container ">
             <!--ll part-->
-            <div class="col-md-4 col-lg-3 col-12 lj-area">
+            <div class="col-md-4 col-lg-3 col-12 lj-area wow fadeInRight">
                 <div class="p1">
                     <img src="/asset/images/24 HOURS SUPPORT.png" alt="" class="img-responsive" />
                     <h2>24 hours support</h2>
@@ -216,7 +216,7 @@
             <!--ll part-->
 
             <!--ll part-->
-            <div class="col-md-4 col-lg-3 col-12 lj-area2">
+            <div class="col-md-4 col-lg-3 col-12 lj-area2 wow fadeInDown">
                 <div class="p1">
                 <img src="/asset/images/FAST AND RELIABLE.png" alt="" class="img-responsive" />
                     <h2>Fast and reliable</h2>
@@ -232,7 +232,7 @@
             <!--ll part-->
 
             <!--ll part-->
-            <div class="col-md-4 col-lg-3 col-12 lj-area">
+            <div class="col-md-4 col-lg-3 col-12 lj-area wow fadeInRight">
                 <div class="p1">
                 <img src="/asset/images/TRUCKING SERVICE.png" alt="" class="img-responsive" />
                         <h2>Trucking service</h2>
@@ -251,9 +251,9 @@
     </section>
 
     <section>
-        <div class="sc-part2 wow fadeInDown container">
+        <div class="sc-part2  container">
             <div class="row " id="equalheight">
-                <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container">
+                <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container wow fadeInLeft">
                     <h1>WELCOME Trucking Solutions</h1>
                     <p>
                         G&G Trucking Solutions has become an established and dependable
@@ -276,7 +276,7 @@
                         </ul>
                     </div>
 
-                    <div class="col-sm-6 col-xs-12">
+                    <div class="col-sm-6 col-xs-12 ">
                         <ul class="li-list-container">
                             <li>Bonded Carrier</li>
                             <li>IFTA Registration</li>
@@ -288,7 +288,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-5 col-xs-12 ppp-area sc-part2-container">
+                <div class="col-sm-5 col-xs-12 ppp-area sc-part2-container  wow fadeInRight">
                     <img src="https://cdn.pixabay.com/photo/2019/02/26/07/33/trucks-in-snow-4021311__340.jpg"
                         style="width: 100%; height: 100%" />
                 </div>
@@ -297,14 +297,14 @@
     </section>
 
     <section>
-        <div class="sc-part3 wow fadeInDown container">
+        <div class="sc-part3  container">
             <div class="row " id="equalheight2">
-                <div class="col-sm-5 col-xs-12 ppp-area2 sc-part2-container order-2">
+                <div class="col-sm-5 col-xs-12 ppp-area2 sc-part2-container order-2 wow fadeInLeft">
                     <img src="https://cdn.pixabay.com/photo/2019/02/26/07/33/trucks-in-snow-4021311__340.jpg"
                         style="width: 100%; height: 100%" />
                 </div>
 
-                <div class="col-sm-7 col-xs-12 sc-part3 sc-part2-container order-1">
+                <div class="col-sm-7 col-xs-12 sc-part3 sc-part2-container order-1 wow fadeInRight">
                     <h1>Permits</h1>
                     <p>
                         We help you to take permits which are not included in the number

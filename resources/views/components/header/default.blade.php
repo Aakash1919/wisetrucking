@@ -4,7 +4,7 @@
             <div class="hh-part">
                 <div class="top-part">
                     <div class="container">
-                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right d-none d-md-block">
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right d-none ">
                             <div class="col-md-3 col-sm-3 col-xs-12 call">
                                 <p><i class="fa fa-headphones" aria-hidden="true"></i><span>Call Us Anytime</span><br>647
                                     - 643 - 2525
@@ -28,12 +28,11 @@
                 </div>
                 <div class="top-part2">
                     <div class="container">
-                        <div class="col-md-4 col-sm-4 col-xs-12 header__logo">
-                            <a href="index.html" class="logo"><img src="{{asset('asset/images/wise.jpeg')}}" alt=""></a>
+                        <div class="col-md-4 col-sm-4 col-xs-8 header__logo">
+                            <a href="/" class="logo"><img src="{{asset('asset/images/wise.jpeg')}}" alt=""></a>
                         </div>
-                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right">
-                            <div class="top-details-part wow fadeInDown animated animated animated animated"
-                                style="visibility: visible; animation-name: fadeInDown;">
+                        <div class="col-md-8 col-sm-8 col-xs-4 pull-right">
+                            <div class="top-details-part wow fadeInDown">
                                 <div class="top-two-part">
                                     <div class="menu-wraper no-padding">
                                         <nav class="navbar navbar-default">
