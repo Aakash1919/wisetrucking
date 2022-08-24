@@ -102,5 +102,11 @@
     </div>
     <div class="clearfix"></div>
     <!--foot-top-part-->
-
+    <script>
+                                            window.onload = function() {
+                                            let frameElement = document.querySelector('.goog-te-menu-frame');
+                                            let doc = frameElement.contentDocument;
+                                            doc.body.setAttribute("style", "overflow:auto;");
+                                            }
+                                        </script>
 </footer>

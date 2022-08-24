@@ -77,7 +77,7 @@
 
 @media only screen and (max-width : 768px){
 .top-part{ position: relative; }
-.logo img{ width:200px!important;}
+.logo img{ width:180px!important;}
 
 .overlay { width: 70%;}
 
@@ -122,6 +122,10 @@ label { font-size: 12px; }
         background: rgba(57, 57, 57, 0.94);
         z-index: 999999;
     }
+    #google_translate_element{
+       
+            top:55px;
+        }
 .d-none {display: none;}
 .navbar-header{margin-top: 10px;}
 .top-part{ position: relative; }

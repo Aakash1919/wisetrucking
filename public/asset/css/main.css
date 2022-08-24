@@ -912,7 +912,6 @@ label {
     text-transform: none;
     margin: 0;
     padding: 0px 0px 10px 20px;
-    font-style: italic;
 }
 
 .sc-part2 ul {
@@ -929,7 +928,6 @@ label {
     color: #babcc3;
     text-align: left;
     text-transform: none;
-    font-style: italic!important;
     margin: 0 0 15px 0px;
     padding: 0px 0px 0px 20px;
 }
@@ -966,7 +964,6 @@ label {
     text-transform: none;
     margin: 0;
     padding: 0px 0px 10px 20px;
-    font-style: italic;
 }
 
 .sc-part3 ul {
@@ -983,7 +980,6 @@ label {
     color: #babcc3;
     text-align: left;
     text-transform: none;
-    font-style: italic!important;
     margin: 0 0 10px 0px;
     padding: 0px 0px 0px 20px;
 }
@@ -2967,6 +2963,16 @@ font-size: 19px;
 font-weight: 300;
 color: #474747;
 }
+.header_col{
+    position: relative;
+}
+#google_translate_element{
+    position: absolute;
+        right: 0%;
+        top:0px;
+    }
+ 
+   
 @media(min-width:991px) and (max-width:1200px),(max-width:576px){
 .service-card img {
 width: 360px;
@@ -3005,6 +3011,11 @@ margin-top: 30px;
 
 }
 @media (max-width:767px) {
+    .goog-te-menu-frame{
+        overflow: auto;
+        width: 100%!important;
+        margin: auto;
+    }
 .service_card_content h2 {
 font-size: 22px;
 }
@@ -3078,14 +3089,7 @@ order: 2;
         right: 5%;
     }
 }
-@media screen and (max-width: 1024px) and (min-width: 768px) {
-    #google_translate_element{
-        position: absolute;
-            top: 5%;
-            left: -75%;
-        }
 
-    }
 @-webkit-keyframes psBoxShadowEffect_2 {
     0% {
         opacity: 0.3;
@@ -3253,9 +3257,10 @@ order: 2;
 }
 
 .menu-wraper .active a {
-    background: #0000004f !important;
-    color: #fff!important;
+    background: #00000000 !important;
+    color: #ffabab!important;
     border-radius: 0px;
+    border-bottom: 3px solid;
 }
 
 .pad {

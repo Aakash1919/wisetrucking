@@ -3,7 +3,7 @@
         <div class="wrap ng-scope">
             <div class="hh-part">
                 <div class="top-part">
-                    <div class="container">
+                    <div class="container header_col">
                         <div class="col-md-8 col-sm-8 col-xs-12 pull-right d-none ">
                             <div class="col-md-3 col-sm-3 col-xs-12 call">
                                 <p><i class="fa fa-headphones" aria-hidden="true"></i><span>Call Us Anytime</span><br>647
@@ -20,10 +20,11 @@
                                     <span>E-mail Us</span><br>wisetruckingsolutions@gmail.com
                                 </p>
                         </div>
-                            <div class="col-md-2 col-sm-2 col-xs-12 social">
-                                <div id="google_translate_element"></div>
-                            </div>
+                            
                         </div>
+                                <div id="google_translate_element">
+                                  
+                       </div>
                     </div>
                 </div>
                 <div class="top-part2">

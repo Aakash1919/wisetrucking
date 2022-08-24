@@ -61,7 +61,6 @@
         }
 
         .li-list-container li {
-            font-style: italic !important;
             margin: 0 0 15px 0px;
             padding: 0px 0px 0px 20px;
             color: #017e85 !important;
