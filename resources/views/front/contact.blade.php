@@ -66,7 +66,7 @@
                                     <tbody>
                                         <tr>
                                             <td align="left" valign="top"><strong>Company Name:</strong></td>
-                                            <td align="left" valign="top">G&G Trucking Solution</td>
+                                            <td align="left" valign="top">Wise Trucking Solution</td>
                                         </tr>
                                         <tr>
                                             <td width="36%" valign="top" align="left"><strong>Address:</strong></td>
