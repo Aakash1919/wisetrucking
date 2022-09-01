@@ -252,13 +252,8 @@
     <section>
         <div class="sc-part2  container">
             <div class="row " id="equalheight">
-<<<<<<< HEAD
                 <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container wow fadeInLeft">
-                    <h1>WELCOME Trucking Solutions</h1>
-=======
-                <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container">
-                    <h1>WELCOME To Trucking Solutions</h1>
->>>>>>> f1fba1a6cd5ca5f910cb75583f7e8aeb6173d605
+                    <h1>WELCOME To Wise Trucking Solutions</h1>
                     <p>
                         Wise Trucking Solutions has become an established and dependable
                         trucking solutions provider. Wise Trucking Solutions provides a
