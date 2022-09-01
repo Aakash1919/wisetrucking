@@ -168,7 +168,7 @@
                     <div class="item active"> <img src="{{ asset('asset/images/banne4.png') }}" alt="" title="">
                         <div class="slide-text slide_style_left">
                             <div class="container">
-                                <div class="caption_heading" data-animation="animated fadeInLeft"> UNBEATABLE </div>
+                                <div class="caption_heading" data-animation="animated fadeInLeft"> Wise </div>
                                 <div class="caption_sub_heading" data-animation="animated fadeInRight">
                                     <p>TRUCKING Solutions</p>
                                     <h2> Providing exceptional Safety & Compliance Management, Training & Customer Services
@@ -252,11 +252,16 @@
     <section>
         <div class="sc-part2  container">
             <div class="row " id="equalheight">
+<<<<<<< HEAD
                 <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container wow fadeInLeft">
                     <h1>WELCOME Trucking Solutions</h1>
+=======
+                <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container">
+                    <h1>WELCOME To Trucking Solutions</h1>
+>>>>>>> f1fba1a6cd5ca5f910cb75583f7e8aeb6173d605
                     <p>
-                        G&G Trucking Solutions has become an established and dependable
-                        trucking solutions provider. G&G Trucking Solutions provides a
+                        Wise Trucking Solutions has become an established and dependable
+                        trucking solutions provider. Wise Trucking Solutions provides a
                         variety of high quality safety solutions designed to educate,
                         measure and assist the transportation industry. We understand
                         the requirements necessary to achieve compliance with
@@ -318,7 +323,7 @@
 
                     <h1>History</h1>
                     <p>
-                        Since it's founding in Mississauga ON in 2007, G&G Trucking
+                        Since it's founding in Mississauga ON in 2007, Wise Trucking
                         Solutions Inc, is provinding assistance to new and old trcuking
                         companies to manage their business in better way. Our clients
                         are very happy with our services and continously doing business
