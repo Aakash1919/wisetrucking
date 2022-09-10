@@ -300,6 +300,7 @@
                     <h1>KNOW US:</h1>
                     <p>
                     Wise Trucking Solutions was established to offer businesses looking for a safer & more compliant solution to operate a transportation fleet value-creating option. We are moving toward strict regulation compliance as a result of a growing recognition of the social impacts of issues concerning fleet operation and road safety. Wise Trucking Solutions wants to work with you as a partner to provide both quick and long-term value solutions for your development. Wise Trucking Solutions takes delight in the fact that we have established our corporation on truth, fairness, and surpassing the expectations of a diverse variety of businesses. The durability of Wise Trucking Solutions, which has withstood several highs and lows in the transportation industry, is a witness to our key values of "always putting clients' needs first."
+
                     </p>
                 </div>
                 <div></div>
