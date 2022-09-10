@@ -17,7 +17,7 @@ Auth::routes();
 Route::get('/', [\App\Http\Controllers\PublicController::class, 'index']);
 Route::get('/contact', [\App\Http\Controllers\PublicController::class, 'contact'])->name('contact');
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/about', [App\Http\Controllers\PublicController::class, 'about'])->name('about');
+Route::get('/drug-test', [App\Http\Controllers\PublicController::class, 'about'])->name('about');
 Route::get('/services', [App\Http\Controllers\PublicController::class, 'services'])->name('service');
 
 
