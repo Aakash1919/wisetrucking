@@ -168,10 +168,10 @@
                     <div class="item active"> <img src="{{ asset('asset/images/banne4.png') }}" alt="" title="">
                         <div class="slide-text slide_style_left">
                             <div class="container">
-                                <div class="caption_heading" data-animation="animated fadeInLeft"> Wise </div>
+                                <div class="caption_heading" data-animation="animated fadeInLeft"> WISE  TRUCKING  SOLUTIONS  </div>
                                 <div class="caption_sub_heading" data-animation="animated fadeInRight">
-                                    <p>TRUCKING Solutions</p>
-                                    <h2> Providing exceptional Safety & Compliance Management, Training & Customer Services
+                                    <p>WE OFFER SOLUTIONS FOR BUSINESS</p>
+                                    <!-- <h2> Providing exceptional Safety & Compliance Management, Training & Customer Services -->
                                     </h2>
                                     <p><a href="contact.html" class="red_btn">Make an Appointment</a>
                                     </p>
@@ -202,12 +202,9 @@
             <div class="col-md-4 col-lg-3 col-12 lj-area wow fadeInRight">
                 <div class="p1">
                     <img src="/asset/images/24 HOURS SUPPORT.png" alt="" class="img-responsive" />
-                    <h2>24 hours support</h2>
+                    <h2>24-HOUR ASSISTANCE</h2>
                     <p>
-                        We have helped motor carriers, reduce the costs of complying
-                        with state and federal regulations. We save our clients from
-                        wasting their valuable time, labor, and attention from
-                        activities and help them remain stress-free.
+                    At wise we assist motor carriers in lowering the expense of adhering to local, state, and federal laws. We also help our clients stay stress-free by preventing them from wasting their valuable time, effort, and focus on unimportant tasks.
                     </p>
                 </div>
                 <div class="clearfix"></div>
@@ -218,12 +215,9 @@
             <div class="col-md-4 col-lg-3 col-12 lj-area2 wow fadeInDown">
                 <div class="p1">
                 <img src="/asset/images/FAST AND RELIABLE.png" alt="" class="img-responsive" />
-                    <h2>Fast and reliable</h2>
+                    <h2>QUICK & TRUSTWORTHY</h2>
                     <p>
-                        We use our compliance expertise and experience, aided by
-                        technology, to make your compliance data – trip reports, hours
-                        of service logs, tax and registration filings, and driver
-                        qualification files accurate
+                    At Wise   we employ technology and our compliance knowledge to ensure the accuracy of your compliance data, hours of service logs, including trip reports, tax and registration filings, and driver qualification files.
                     </p>
                 </div>
                 <div class="clearfix"></div>
@@ -234,12 +228,9 @@
             <div class="col-md-4 col-lg-3 col-12 lj-area wow fadeInRight">
                 <div class="p1">
                 <img src="/asset/images/TRUCKING SERVICE.png" alt="" class="img-responsive" />
-                        <h2>Trucking service</h2>
+                        <h2>TRUCKING SOLUTIONS</h2>
                     <p>
-                        Our trucking service is based on the principle of providing our
-                        clients with the flexibility and reliability, to move legal load
-                        across town, or across the country, whenever they want. Count on
-                        us for unparallel trucking solutions!
+                    Wise Trucking Solutions is founded on the idea of giving our customers the stability and freedom to move a legal load anytime they want, whether it be local or US loads. For incomparable trucking solutions, rely on us!
                     </p>
                 </div>
                 <div class="clearfix"></div>
@@ -253,36 +244,32 @@
         <div class="sc-part2  container">
             <div class="row " id="equalheight">
                 <div class="col-sm-7 col-xs-12 sc-part2 sc-part2-container wow fadeInLeft">
-                    <h1>WELCOME To Wise Trucking Solutions</h1>
+                    <h1>WELCOME TO WISE TRUCKING SOLUTIONS</h1>
                     <p>
-                        Wise Trucking Solutions has become an established and dependable
-                        trucking solutions provider. Wise Trucking Solutions provides a
-                        variety of high quality safety solutions designed to educate,
-                        measure and assist the transportation industry. We understand
-                        the requirements necessary to achieve compliance with
-                        legislation, assist in truck driver training and create
-                        different procedures to ensure success.
+                    Wise Trucking Solutions has established itself as a proper shop of trucking solutions. Wise Trucking Solutions offers a range of professional safety solutions that are intended to inform, assess, and support the transportation sector. We are aware of what is required to comply with the law, help with truck driver training, and develop various methods to meet expectations.
                     </p>
+                    <p>We  offer Solutions:</p>
                     <div class="col-sm-6 col-xs-12">
                         <ul class="li-list-container">
-                            <li>Log Book Auditing</li>
-                            <li>Fuel Tax Reporting</li>
-                            <li>MTO/DOT Safety Audit Preparation</li>
-                            <li>Carrier Code</li>
                             <li>Company Registration</li>
-                            <li>Safety Fitness Certificate</li>
                             <li>CVOR Registration</li>
+                            <li>US/Canada Authorities </li>
+                            <li>Prorate Plate/IRP Plates</li>
+                            <li>IFTA Registration, Fuel Tax Reporting</li>
+                            <li>Drug testing & Alcohol</li>
+                            <li>IFTA/MTO/DOT Safety Audit Preparation</li>
                         </ul>
                     </div>
 
                     <div class="col-sm-6 col-xs-12 ">
                         <ul class="li-list-container">
-                            <li>Bonded Carrier</li>
-                            <li>IFTA Registration</li>
-                            <li>Prorate Plate/IRP Plates</li>
-                            <li>Fleet Management Program</li>
-                            <li>Financing to Buy a Truck</li>
-                            <li>DG Training</li>
+                            <li>CTPAT/ PIP/ FAST CERTIFICATION/ SMARTWAY</li>
+                            <li>Permits (State/Overweight/Oversize)</li>
+                            <li>Safety & Compliance Management</li>
+                            <li>ELD Devices /Log Book Auditing</li>
+                            <li>Criminal Background Check for Employment purposes</li>
+                            <li>Driver Hiring/Training</li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -304,28 +291,16 @@
                 </div>
 
                 <div class="col-sm-7 col-xs-12 sc-part3 sc-part2-container order-1 wow fadeInRight">
-                    <h1>Permits</h1>
+                    <h1>OUR VISION</h1>
                     <p>
-                        We help you to take permits which are not included in the number
-                        plates. These are special permits which are required to enter in
-                        the province of US to do a legal business.
+                    Our vision at Wise Trucking Solutions is to bring our customers the best possible service at budget prices. With our skilled and experienced assistance, we are focused on providing our clients the finest service possible at the most sensible rates. We aim to be the industry's leader in excellence. Unless you are satisfied, we are not. Let's work to progress.
                     </p>
-                    <ul class="li-list-container">
-                        <li>New Mexico Permits</li>
-                        <li>New York Hut Permits</li>
-                        <li>Oregon Permits</li>
-                    </ul>
+                   
 
-                    <h1>History</h1>
+                    <h1>KNOW US:</h1>
                     <p>
-                        Since it's founding in Mississauga ON in 2007, Wise Trucking
-                        Solutions Inc, is provinding assistance to new and old trcuking
-                        companies to manage their business in better way. Our clients
-                        are very happy with our services and continously doing business
-                        with us.
+                    Wise Trucking Solutions was established to offer businesses looking for a safer & more compliant solution to operate a transportation fleet value-creating option. We are moving toward strict regulation compliance as a result of a growing recognition of the social impacts of issues concerning fleet operation and road safety. Wise Trucking Solutions wants to work with you as a partner to provide both quick and long-term value solutions for your development. Wise Trucking Solutions takes delight in the fact that we have established our corporation on truth, fairness, and surpassing the expectations of a diverse variety of businesses. The durability of Wise Trucking Solutions, which has withstood several highs and lows in the transportation industry, is a witness to our key values of "always putting clients' needs first."
 
-                        <br /><br />We are pleased to tell you that our business is
-                        growing as we have opened a new branch in Calgary AB, 2013.
                     </p>
                 </div>
                 <div></div>

@@ -6,15 +6,9 @@
                 <!--about-->
                 <div class="col-md-5 col-sm-12 col-xs-12">
                     <div class="area2">
-                        <h2>about us</h2>
+                        <h2> ABOUT WISE	</h2>
                         <!--about area-->
-                        <p>We believe our experience and knowledge will not only improve your Company’s SAFETY RATING,
-                            but we will save your company a substantial amount of money on non-compliance fines, 
-                            equipment costs and the cost of managing a fleet by increasing miles per gallon and decreasing cost per mile.
-                        
-                            Today, Wise Trucking Solutions is Ontario’s leading transportation management and consulting firm.
-                            We have successfully assisted hundreds of trucking and logistic companies with their acquisition needs,
-                             as well as aided struggling carriers with improved operations and increased cash flow, among other services.</p>
+                        <p>  Today, Wise Trucking Solutions is the best transportation management and consulting business in Ontario. We have assisted many of transportation and logistical businesses with their acquisition requirements, as well as struggling carriers with enhanced operations and increased cash production, including such services.</p>
                         <p><a href="https://www.facebook.com/gngtruckingsolutions"><i class="fa fa-facebook"
                                     aria-hidden="true"></i></a>
                             <a href="https://twitter.com/gngtruckingsolu"><i class="fa fa-twitter"
@@ -29,9 +23,9 @@
                 <!--contact-->
                 <div class="col-md-3 col-sm-12 col-xs-12">
                     <div class="area2">
-                        <h2>contact us</h2>
+                        <h2>CONTACT US  </h2>
                         <div class="rc-part">
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>234 Wilkinson RdBrampton, ON L6T 4N7, Canada</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>234 WILKINSON RD  BRAMPTON, ON, L6T4N7</p>
                         </div>
                         <div class="clearfix"></div>
                         {{-- <div class="rc-part">
@@ -41,13 +35,13 @@
                         {{-- <div class="clearfix"></div> --}}
 
                         <div class="rc-part">
-                            <p><i class="fa fa-phone" aria-hidden="true"></i>647 643 2525/ 905 461 2525</p>
+                            <p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:9052916730">905-291-6730</a></p>
                         </div>
 
                         <div class="clearfix"></div>
 
                         <div class="rc-part">
-                            <p><i class="fa fa-envelope-o" aria-hidden="true"></i>wisetruckingsolutions@gmail.com</p>
+                            <p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:Info@wisetrucking.ca">Info@wisetrucking.ca</a></p>
 
                         </div>
                         <div class="clearfix"></div>
@@ -60,22 +54,27 @@
                 <!--newsletter-->
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="area4">
-                        <h2>Our Services</h2>
+                        <h2>WE OFFER SOLUTIONS :</h2>
                         <!--testi area-->
+                       
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Company Registration
+                        </a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">CVOR Registration
+                        </a></p>
                         <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a
-                                href="service.html">Permits and Authorities Service</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Safety and Compliance Management
-                        </a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">ELD / Log Book Auditing and Monitoring
-                        </a></p>
+                                href="service.html">US/Canada Authorities </a></p>
                         <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">
-                            International Registration Plan (IRP)</a></p>
+                        Prorate Plate/IRP Plates</a></p>
                         <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">
-                            IFTA Tax Filing</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> DOT approved Drug and Alcohol Testing</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> Safe and Smart Driver Training</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> MTO-DOT Audits</a></p>
-                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> CSA Administration Service</a></p>
+                        IFTA Registration, Fuel Tax Reporting</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> 	Drug testing & Alcohol</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html"> IFTA/MTO/DOT Safety Audit Preparation</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">	CTPAT/ PIP/ FAST CERTIFICATION/ SMARTWAY</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Permits (State/Overweight/Oversize)</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Safety & Compliance Management</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">ELD Devices /Log Book Auditing</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">	Criminal Background Check for Employment purposes</a></p>
+                        <p><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;<a href="service.html">Driver Hiring/ Training</a></p>
 
 
                     </div>

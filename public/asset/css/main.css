@@ -1198,7 +1198,9 @@ label {
 .welcome-area2 {
     margin: 30px 0px 40px 0px;
 }
-
+.welcome-area2 img{
+    width:45%;
+}
 .welcome-area2 h1 {
     color: #017e85!important;
     font-family: 'Oswald', sans-serif!important;
@@ -1210,13 +1212,14 @@ label {
     padding: 20px 0px 0px 0px;
 }
 
+
 .welcome-area2 h1 span {
     color: #ff3600!important;
 }
 
 .welcome-area2 h2 {
-    color: #000!important;
-    font-family: 'Oswald', sans-serif!important;
+ color: #017e85!important;
+     font-family: 'Oswald', sans-serif!important;
     font-size: 24px;
     font-weight: bold;
     line-height: 34px;
@@ -1233,14 +1236,15 @@ label {
 }
 
 .welcome-area2 li {
-    width: 90%;
+    width: 100%;
     background: url(../images/b-arrow.png) 2px 4px no-repeat;
     font: normal 22px/26px Nyala;
-    color: #80411e;
+    color: #017e85!important;
     text-align: left;
     text-transform: none;
     margin: 0 0 15px 0px;
     padding: 0px 0px 0px 20px;
+    font-size: 17px;
 }
 
 .welcome-area2 p {
@@ -1503,7 +1507,7 @@ label {
 }
 
 .blog {
-    background: url(../images/header_bg.jpg) no-repeat;
+    background: url(../images/DrugTest.jpg) no-repeat;
     background-size: 100%/*240*/
     140%;
 }
@@ -2958,7 +2962,7 @@ font-weight: 500;
 margin-bottom: 20px;
 }
 .service_card_content p{
-font-size: 19px;
+font-size: 16px;
 font-weight: 300;
 color: #474747;
 }
@@ -3014,6 +3018,10 @@ margin-top: 30px;
         overflow: auto;
         width: 100%!important;
         margin: auto;
+    }
+    .welcome-area2 img{
+        width:100%;
+        margin-bottom: 30px;
     }
 .service_card_content h2 {
 font-size: 22px;
@@ -3738,6 +3746,23 @@ padding-right:10px;
 }
 .sc-part2-container h2, .sc-part2-container p {
     color: #017e85 !important;
+}
+.sc-part2-container li{
+    width: 100%;
+    list-style: none;
+    background: url(../images/b-arrow.png) 2px 4px no-repeat;
+    font: normal 22px/26px Nyala;
+    color: #017e85!important;
+    text-align: left;
+    text-transform: none;
+    margin: 0 0 8px 0px;
+    padding: 0px 0px 0px 20px;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.custom-row-create{
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .sc-part2-container h2{
 background: url(../images/tag-underline-bg.png) left bottom no-repeat;
