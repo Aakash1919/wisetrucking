@@ -6,18 +6,17 @@
                     <div class="container header_col">
                         <div class="col-md-8 col-sm-8 col-xs-12 pull-right d-none ">
                             <div class="col-md-3 col-sm-3 col-xs-12 call">
-                                <p><i class="fa fa-headphones" aria-hidden="true"></i><span>Call Us Anytime</span><br>647
-                                    - 643 - 2525
+                                <p><i class="fa fa-headphones" aria-hidden="true"></i><span>Call Us Anytime</span><br><a href="tel:9052916730">905-291-6730</a>
                                 </p>
                             </div>
                             <div class="col-md-3 col-sm-3 col-xs-12 time">
                                 <p><i class="fa fa-clock-o" aria-hidden="true"></i>
-                                    <span>Opening Time</span><br>08:00 - 18:00
+                                    <span>MON-FRI</span><br>9.30AM -5.30 PM
                                 </p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 mail">
                                 <p><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                                    <span>E-mail Us</span><br>wisetruckingsolutions@gmail.com
+                                    <span>E-mail Us</span><br><a href="mailto:Info@wisetrucking.ca">Info@wisetrucking.ca</a>
                                 </p>
                         </div>
                             
@@ -52,7 +51,7 @@
                                                 <ul class="nav navbar-nav">
                                                     <li class="@if(isset($active) && $active=='home') active @endif"><a href="/">Home <span
                                                                 class="sr-only">(current)</span></a></li>
-                                                    <li class="@if(isset($active) && $active=='about') active @endif"><a href="{{route('about')}}">About</a></li>
+                                                    <li class="@if(isset($active) && $active=='about') active @endif"><a href="{{route('about')}}">Drug Test</a></li>
                                                     <li class="@if(isset($active) && $active=='service') active @endif"><a href="{{route('service')}}">Services</a></li>
                                                     <li class="@if(isset($active) && $active=='blog') active @endif"><a href="javascript:void(0);">Blog</a></li>
                                                     <li class="@if(isset($active) && $active=='contact') active @endif"><a href="{{route('contact')}}">Contact us</a></li>
