@@ -1,6 +1,6 @@
 @extends('layouts.front')
 @section('content')
-    <section class="blog">
+    <section class="blog-contact">
         <div class="blog-overlay">
             <div class="container">
                 <div class="col-sm-12  wow fadeInDown">
@@ -33,16 +33,16 @@
                                         </tr>
                                         <tr>
                                             <td valign="top" align="left"><strong>Phone:</strong></td>
-                                            <td valign="top" align="left"> (905)-461-2525</td>
+                                            <td valign="top" align="left"> (906)-291-6730</td>
                                         </tr>
                                         <tr>
                                             <td valign="top" align="left"><strong>Fax:</strong></td>
-                                            <td valign="top" align="left">(905)-461-2525</td>
+                                            <td valign="top" align="left">(905)-291-6638</td>
                                         </tr>
                                         <tr>
                                             <td valign="top" align="left"><strong>Email:</strong></td>
-                                            <td valign="top" align="left"><a href="mailto:truckingsolutions@gmail.com">
-                                                    wisetruckingsolutions@gmail.com</a>
+                                            <td valign="top" align="left"><a href="mailto:info@wisetrucking.ca">
+                                                    info@wisetrucking.ca</a>
                                             </td>
                                         </tr>
                                     </tbody>

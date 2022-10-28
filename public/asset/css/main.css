@@ -1511,6 +1511,11 @@ label {
     background-size: 100%/*240*/
     140%;
 }
+.blog-contact {
+    background: url(../images/Contact.jpg) no-repeat;
+    background-size: 100%/*240*/
+    140%;
+}
 
 .blog-overlay {
     background: rgba(25, 28, 28, .5);
