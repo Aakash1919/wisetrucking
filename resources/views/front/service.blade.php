@@ -20,7 +20,7 @@
       <div class="row custom-row-create">
         <div class="col-md-6 wow fadeInLeft">
           <div class="service-card">
-            <img src="{{ asset('asset/images/s1.png') }}" alt="truck" />
+            <img src="{{ asset('asset/images/img1.jpeg') }}" alt="truck" />
           </div>
         </div>
         <div class="col-md-6 wow fadeInRight">
@@ -50,14 +50,14 @@
         </div>
         <div class="col-md-6  wow fadeInRight">
           <div class="service-card">
-            <img src="{{ asset('asset/images/s2.png') }}" alt="truck" />
+            <img src="{{ asset('asset/images/image2.jpeg') }}" alt="truck" />
           </div>
         </div>
       </div>
       <div class="row custom-row-create">
         <div class="col-md-6  wow fadeInLeft">
           <div class="service-card">
-            <img src="{{ asset('asset/images/s3.png') }}" alt="truck" />
+            <img src="{{ asset('asset/images/image3.jpeg') }}" alt="truck" />
           </div>
         </div>
         <div class="col-md-6  wow fadeInRight">
@@ -84,14 +84,14 @@ IN CANADA AND THE UNITED STATES.
         </div>
         <div class="col-md-6  wow fadeInRight">
           <div class="service-card">
-            <img src="{{ asset('asset/images/s4.png') }}" alt="truck" />
+            <img src="{{ asset('asset/images/image4.jpeg') }}" alt="truck" />
           </div>
         </div>
       </div>
       <div class="row custom-row-create">
         <div class="col-md-6  wow fadeInLeft">
           <div class="service-card">
-            <img src="{{ asset('asset/images/s5.png') }}" alt="truck" />
+            <img src="{{ asset('asset/images/image5.jpeg') }}" alt="truck" />
           </div>
         </div>
         <div class="col-md-6  wow fadeInRight">
@@ -117,7 +117,7 @@ IN CANADA AND THE UNITED STATES.
         </div>
         <div class="col-md-6  wow fadeInRight">
           <div class="service-card">
-            <img src="{{ asset('asset/images/s6.png') }}" alt="truck" />
+            <img src="{{ asset('asset/images/image6.jpeg') }}" alt="truck" />
           </div>
 
         </div>
