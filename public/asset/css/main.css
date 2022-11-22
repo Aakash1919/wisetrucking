@@ -404,7 +404,7 @@ h4 {
     padding: 10px 0px 10px 0px;
 }
 p {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 }
 
 .p1 p {
