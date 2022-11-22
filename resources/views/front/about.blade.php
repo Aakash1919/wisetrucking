@@ -49,7 +49,7 @@
                             </li>
                     </ul>
                     <h2>What CDL Drivers Need to Know</h2>
-                    <h4><b>DOT drug tests require laboratory testing (49 CFR Part 40 Subpart F) for the following five classes of drugs:</b></h4>
+                    <p>DOT drug tests require laboratory testing (49 CFR Part 40 Subpart F) for the following five classes of drugs:</p>
                     <ul class="li-list-container">
                             <li> Marijuana</li>
                             <li>Cocaine</li>

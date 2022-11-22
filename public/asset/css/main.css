@@ -653,6 +653,7 @@ h4 {
     font-weight: bold;
 }
 
+
 .caption_sub_heading p {
     margin-bottom: 0px!important;
     font-size: 30px!important;
@@ -1249,10 +1250,11 @@ label {
 
 .welcome-area2 p {
     font: normal 15px/26px 'Roboto', sans-serif !important;
-    color: #5f5959;
+    color: #017e85;
     padding: 20px 0px 20px 0px;
     text-align: left;
 }
+
 
 .welcome-area3 {
     margin: 20px 0px 30px 0px;
