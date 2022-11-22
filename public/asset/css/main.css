@@ -403,6 +403,9 @@ h4 {
     text-transform: uppercase;
     padding: 10px 0px 10px 0px;
 }
+p {
+    font-family: 'Roboto';
+}
 
 .p1 p {
     font: 14px/21px 'Roboto', sans-serif!important;
