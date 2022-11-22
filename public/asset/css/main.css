@@ -231,7 +231,7 @@ h4 {
 }
 
 .mail-area p {
-    font: normal 14px/22px 'Roboto', sans-serif;
+    font: 14px/22px 'Roboto', sans-serif;
     color: #fff;
     margin: 0!important;
     padding: 0!important;
@@ -248,7 +248,7 @@ h4 {
 }
 
 .call-area p {
-    font: normal 14px/22px 'Roboto', sans-serif;
+    font: 14px/22px 'Roboto', sans-serif;
     color: #fff;
     margin: 0!important;
     padding: 0!important;
@@ -405,7 +405,7 @@ h4 {
 }
 
 .p1 p {
-    font: normal 14px/21px 'Roboto', sans-serif!important;
+    font: 14px/21px 'Roboto', sans-serif!important;
     color: #017e85;
     padding: 0px 0px 20px 8px;
     text-align: center;
@@ -925,7 +925,7 @@ label {
 .sc-part2 li {
     width: 90%;
     background: url(../images/b-arrow.png) 0px 7px no-repeat;
-    font: normal 14px/22px 'Roboto', sans-serif!important;
+    font: 14px/22px 'Roboto', sans-serif!important;
     color: #babcc3;
     text-align: left;
     text-transform: none;
@@ -977,7 +977,7 @@ label {
 .sc-part3 li {
     width: 90%;
     background: url(../images/b-arrow.png) 0px 7px no-repeat;
-    font: normal 14px/22px 'Roboto', sans-serif!important;
+    font: 14px/22px 'Roboto', sans-serif!important;
     color: #babcc3;
     text-align: left;
     text-transform: none;
@@ -1189,7 +1189,7 @@ label {
 }
 
 .welcome-area p {
-    font: normal 14px/22px 'Roboto', sans-serif!important;
+    font: 14px/22px 'Roboto', sans-serif!important;
     color: #383737;
     padding: 0px 79px 0px 0px;
     text-align: left;
@@ -1247,7 +1247,7 @@ label {
 }
 
 .welcome-area2 p {
-    font: normal 15px/26px 'Roboto', sans-serif !important;
+    font: 15px/26px 'Roboto', sans-serif !important;
     color: #017e85;
     padding: 20px 0px 20px 0px;
     text-align: left;
@@ -1366,7 +1366,7 @@ label {
 }
 
 .one-part-area p {
-    font: normal 12px/18px 'Roboto', sans-serif!important;
+    font: 12px/18px 'Roboto', sans-serif!important;
     color: #898686;
     padding: 0px;
     text-align: left;
@@ -1401,7 +1401,7 @@ label {
 }
 
 .book-online-area p {
-    font: normal 17px/26px 'Roboto', sans-serif!important;
+    font: 17px/26px 'Roboto', sans-serif!important;
     color: #fff;
     padding: 20px 0px 0px 0px;
     text-align: center;
@@ -1680,7 +1680,7 @@ label {
 .post-blog-part .featured {}
 
 .post-blog-part .content p {
-    font: normal 16px/26px 'Roboto', sans-serif!important;
+    font: 16px/26px 'Roboto', sans-serif!important;
     color: #7c7b7b;
     padding: 20px 0px 20px 0px;
     text-align: left;
@@ -1792,7 +1792,7 @@ right-n-part {
 }
 
 .team-awards p {
-    font: normal 14px/22px 'Roboto', sans-serif!important;
+    font: 14px/22px 'Roboto', sans-serif!important;
     color: #fff;
     padding: 0px;
     text-align: left;
@@ -1842,7 +1842,7 @@ right-n-part {
 }
 
 .team-awards2 p {
-    font: normal 14px/22px 'Roboto', sans-serif!important;
+    font: 14px/22px 'Roboto', sans-serif!important;
     color: #fff;
     padding: 0px;
     text-align: left;
@@ -2280,7 +2280,7 @@ cat-area {
 }
 
 .a2 p {
-    font: normal 14px/22px 'Roboto', sans-serif;
+    font: 14px/22px 'Roboto', sans-serif;
     color: #acc6ae;
     text-align: left;
     margin: 0px 0 0px 0;
@@ -2393,7 +2393,7 @@ cat-area {
 }
 
 .aa-part p {
-    font: normal 14px/30px 'Roboto', sans-serif!important;
+    font: 14px/30px 'Roboto', sans-serif!important;
     color: #787779;
     padding: 0px;
     text-align: left;
@@ -2476,7 +2476,7 @@ cat-area {
 }
 
 .welcome-area4 p {
-    font: normal 16px/24px 'Roboto', sans-serif!important;
+    font: 16px/24px 'Roboto', sans-serif!important;
     color: #555454;
     padding: 0px 0px 20px 0px;
     text-align: left;
@@ -2515,7 +2515,7 @@ cat-area {
 }
 
 .cont-area4 h2 {
-    font: normal 18px/22px "Open Sans Condensed";
+    font: 18px/22px "Open Sans Condensed";
     text-transform: uppercase!important;
     color: #fff;
     text-align: left!important;
@@ -2524,7 +2524,7 @@ cat-area {
 }
 
 .cont-area4 p {
-    font: normal 16px/20px "PT Sans Narrow";
+    font: 16px/20px "PT Sans Narrow";
     color: #fff;
     text-align: left;
     margin: 0px 0 11px 0;
@@ -2532,7 +2532,7 @@ cat-area {
 }
 
 .cont-area4 p span {
-    font: normal 12px/22px "Open Sans Condensed";
+    font: 12px/22px "Open Sans Condensed";
     text-transform: uppercase!important;
     color: #005d02;
     text-align: left!important;
@@ -3332,7 +3332,7 @@ order: 2;
 }
 
 .ww2 p {
-    font: normal 15px/24px 'Roboto', sans-serif!important;
+    font: 15px/24px 'Roboto', sans-serif!important;
     color: #fff;
     padding: 10px 0px 0px 0px;
     text-align: left;
@@ -3413,7 +3413,7 @@ order: 2;
 }
 
 .area3 p {
-    font: normal 14px/22px 'Roboto', sans-serif;
+    font: 14px/22px 'Roboto', sans-serif;
     color: #017e85;
     text-align: left;
     margin: 0px 0 0px 0;
@@ -3458,7 +3458,7 @@ order: 2;
 }
 
 .area2 p {
-    font: normal 14px/22px 'Roboto', sans-serif;
+    font: 14px/22px 'Roboto', sans-serif;
     color: #f7f7f7;
     text-align: left;
     margin: 0px 0 0px 0;
@@ -3504,7 +3504,7 @@ order: 2;
 }
 
 .area4 p {
-    font: normal 14px/22px 'Roboto', sans-serif;
+    font: 14px/22px 'Roboto', sans-serif;
     color: #f7f7f7;
     text-align: left;
     text-transform: none;
@@ -3551,7 +3551,7 @@ order: 2;
 }
 
 .area5 p {
-    font: normal 14px/22px 'Roboto', sans-serif;
+    font: 14px/22px 'Roboto', sans-serif;
     color: #acc6ae;
     text-align: left;
     margin: 0px 0 0px 0;
@@ -3651,7 +3651,7 @@ order: 2;
 }
 
 .cont-area3 p {
-    font: normal 18px/24px "PT Sans Narrow";
+    font: 18px/24px "PT Sans Narrow";
     color: #6c7f8e;
     text-align: left;
     margin: 0px 0 11px 0;
@@ -3659,7 +3659,7 @@ order: 2;
 }
 
 .cont-area3 p span {
-    font: normal 18px/22px "Open Sans Condensed";
+    font: 18px/22px "Open Sans Condensed";
     text-transform: uppercase!important;
     color: #017e85;
     text-align: left!important;
