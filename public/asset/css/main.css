@@ -1181,7 +1181,6 @@ label {
 .welcome-area li {
     width: 90%;
     background: url(../images/b-arrow.png) 2px 4px no-repeat;
-    font: normal 22px/26px Nyala;
     color: #80411e;
     text-align: left;
     text-transform: none;
@@ -1239,7 +1238,6 @@ label {
 .welcome-area2 li {
     width: 100%;
     background: url(../images/b-arrow.png) 2px 4px no-repeat;
-    font: normal 22px/26px Nyala;
     color: #017e85!important;
     text-align: left;
     text-transform: none;
@@ -3758,7 +3756,6 @@ padding-right:10px;
     width: 100%;
     list-style: none;
     background: url(../images/b-arrow.png) 2px 4px no-repeat;
-    font: normal 22px/26px Nyala;
     color: #017e85!important;
     text-align: left;
     text-transform: none;

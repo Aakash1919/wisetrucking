@@ -1091,7 +1091,6 @@ label {
 .welcome-area li {
     width: 90%;
     background: url(../images/b-arrow-1.png) 2px 4px no-repeat;
-    font: normal 22px/26px Nyala;
     color: #80411e;
     text-align: left;
     text-transform: none;
@@ -1146,7 +1145,6 @@ label {
 .welcome-area2 li {
     width: 90%;
     background: url(../images/b-arrow-1.png) 2px 4px no-repeat;
-    font: normal 22px/26px Nyala;
     color: #80411e;
     text-align: left;
     text-transform: none;
