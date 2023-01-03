@@ -20,7 +20,7 @@
             <div class="row custom-row-create">
                 <div class="col-md-6 wow fadeInLeft">
                     <div class="service-card">
-                        <img src="{{ asset('asset/images/img1.jpeg') }}" alt="truck" />
+                        <img src="{{ asset('asset/frontImages/image-01.jpeg') }}" alt="truck" />
                     </div>
                 </div>
                 <div class="col-md-6 wow fadeInRight">
@@ -178,7 +178,7 @@
                 </div>
                 <div class="col-md-6  wow fadeInRight">
                     <div class="service-card">
-                        <img src="{{ asset('asset/images/s6.png') }}" alt="truck" />
+                        <img src="{{ asset('asset/frontImages/image-02.jpeg') }}" style="object-fit: fill;" alt="truck" />
                     </div>
 
                 </div>
@@ -186,7 +186,7 @@
             <div class="row custom-row-create">
                 <div class="col-md-6  wow fadeInLeft">
                     <div class="service-card">
-                        <img src="{{ asset('asset/images/s5.png') }}" alt="truck" />
+                        <img src="{{ asset('asset/frontImages/image-03.jpeg') }}" style="object-fit: fill;" alt="truck" />
                     </div>
                 </div>
                 <div class="col-md-6  wow fadeInRight">
