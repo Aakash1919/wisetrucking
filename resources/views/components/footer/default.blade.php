@@ -9,11 +9,11 @@
                         <h2> ABOUT WISE	</h2>
                         <!--about area-->
                         <p>  Today, Wise Trucking Solutions is the best transportation management and consulting business in Ontario. We have assisted many of transportation and logistical businesses with their acquisition requirements, as well as struggling carriers with enhanced operations and increased cash production, including such services.</p>
-                        <p><a href="https://www.facebook.com/gngtruckingsolutions"><i class="fa fa-facebook"
+                        <p><a href="#"><i class="fa fa-facebook"
                                     aria-hidden="true"></i></a>
-                            <a href="https://twitter.com/gngtruckingsolu"><i class="fa fa-twitter"
+                            <a href="#"><i class="fa fa-twitter"
                                     aria-hidden="true"></i></a>
-                            <a href="https://plus.google.com/u/0/100839998948567453860"><i class="fa fa-google-plus"
+                            <a href="#"><i class="fa fa-google-plus"
                                     aria-hidden="true"></i></a>
                         </p>
                     </div>

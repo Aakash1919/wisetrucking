@@ -52,7 +52,7 @@
         }, 'google_translate_element');
     }
 </script>
-<script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
 </script>
 <script src="{{asset('asset/js/slider.js')}}"></script>
 <script>
